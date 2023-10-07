@@ -6,9 +6,13 @@ As a computer engineer, I'm driven by my passion for creativity and developing i
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrabzishaan&label=Profile%20views&color=0e75b6&style=flat" alt="mehrabzishaan" /> </p>
 
-- 🔭 I’m currently working on Machine Learning
-  
+- 🔭 I’m currently working on **Natural Language Processing (NLP)**
+
+- 🌱 I’m currently learning **Artificial Intelligence (AI)**
+
 - 📫 How to reach me **mehrab333@gmail.com**
+
+- ⚡ Fun fact **Tell me a joke, let's check our sense of humor!**
 
 <h3 align="center">Front-End & Mobile Development Skills:</h3>
 <p align="center">
