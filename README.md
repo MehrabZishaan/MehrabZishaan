@@ -1,6 +1,6 @@
 ![logo](https://github.com/MehrabZishaan/MehrabZishaan/blob/main/banner.gif)
 ### Hi there 👋, I am MD Mehrabul Islam Zeshan.
-#### A curious student of Computer Science and Engineering.
+#### A student of Computer Science and Engineering.
 <img align="right" alt="coding" width="350" src="https://github.com/MehrabZishaan/MehrabZishaan/blob/main/coding_work.gif">
 As a computer engineer, I'm driven by my passion for creativity and developing innovative technologies to tackle modern world challenges. My dedication to the field and eagerness to push boundaries motivate me to create impactful solutions. I want to improve people's lives, whether I'm creating new software or cutting-edge microchips.
 
