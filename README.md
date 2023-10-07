@@ -1,4 +1,4 @@
-![logo](https://github.com/MehrabZishaan/MehrabZishaan/blob/main/work_place_banner.gif)
+![logo](https://github.com/MehrabZishaan/MehrabZishaan/blob/main/banner.gif)
 ### Hi there 👋, I am MD Mehrabul Islam Zeshan.
 #### A curious student of Computer Science and Engineering.
 <img align="right" alt="coding" width="350" src="https://github.com/MehrabZishaan/MehrabZishaan/blob/main/coding_work.gif">
